@@ -12,10 +12,10 @@ $\large \dot{x} = xt^{-1} - 5t^2x^3$ with an initial condition $\large x(1)=1$
 * Select the appropriate initial number of knots and perform enough compaction until the compaction error reduction stabilizes.
 * Make a drawing comparing the exact solution and the calculated approximations.
 
-### Python modules used ###
+### Python packages used ###
 
-* matplotlib.pyplot
-* numpy
-* sympy
+* ```matplotlib.pyplot```
+* ```numpy```
+* ```sympy```
 
 *Author: Marta Solarz*
