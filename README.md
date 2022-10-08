@@ -18,4 +18,5 @@ $\large \dot{x} = xt^{-1} - 5t^2x^3$ with an initial condition $\large x(1)=1$
 * ```numpy```
 * ```sympy```
 
+
 *Author: Marta Solarz*
